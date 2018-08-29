@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AirPlaneGame2D/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
